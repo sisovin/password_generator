@@ -4,7 +4,8 @@
 This C program generates random passwords of a user-specified length. It effectively utilizes basic concepts such as arrays, dynamic memory allocation, and random number generation.
 
 ## Author
-[\Chieng Sisovin\](https://github.com/sisovin)
+[\[Chieng Sisovin\]](https://github.com/sisovin)
+
 
 ## Observations
 ### Dynamic Memory Allocation
